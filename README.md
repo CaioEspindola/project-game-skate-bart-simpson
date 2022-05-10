@@ -14,7 +14,7 @@ Percebi a importância da organização da estrutura do código, dividindo as re
 cada elemento e com isso otimizando a performance da aplicação.
 
 Para imersão do Jogo escolhi como Ator: Bart Simpson e Tema: Skate.
-Link do jogo: https://editor.p5js.org/caierampe/sketches/STk2tBq8s
+Link do jogo: https://editor.p5js.org/caierampe/full/STk2tBq8s
 
 ![telaInicial](https://user-images.githubusercontent.com/99665225/167635509-be2e8f61-6662-4957-897e-e0ab85e2f052.png)
 ![jogando](https://user-images.githubusercontent.com/99665225/167635538-3eb4a1fb-ea91-486e-88f1-59e4e9303980.png)
