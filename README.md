@@ -11,7 +11,9 @@
 
 <h2>🤖Tech:</h2>
 
-![JAVASCRIPT](https://img.shields.io/badge/-javaScript-05122A?style=flat&color=blueviolet&logo=JAVASCRIPT)
+<a href="#">
+<img src="https://img.shields.io/badge/-javaScript-05122A?style=flat&color=blueviolet&logo=JAVASCRIPT" />
+</a>
 
 <h2>📺Preview:</h2>
 
